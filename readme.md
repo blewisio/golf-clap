@@ -22,12 +22,12 @@ const game = new Game({
 
 If using `yarn`:
 ```
-yarn add wines
+yarn add golf-clap
 ```
 
 Otherwise:
 ```
-npm install wines --save
+npm install golf-clap --save
 ```
 
 ## License
